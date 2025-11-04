@@ -123,7 +123,7 @@ const Hero = ({ scrollToSection }) => {
                 <span className="code-operator">,</span>
               </div>
               <div className="code-line indent">
-                <span className="code-string">"Angular"</span>
+                <span className="code-string">"Next.js"</span>
                 <span className="code-operator">,</span>
               </div>
               <div className="code-line indent">

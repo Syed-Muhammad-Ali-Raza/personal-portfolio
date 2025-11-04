@@ -9,7 +9,7 @@ const skillCategories = [
   },
   {
     title: 'UI/UX Frameworks',
-    skills: ['Tailwind CSS', 'Material UI', 'Ant Design', 'Bootstrap', 'CSS Modules', 'Styled Components', 'Figma']
+    skills: ['shadcn/ui', 'Material UI (MUI)', 'Ant Design', 'Tailwind CSS', 'Bootstrap', 'CSS Modules', 'Styled Components', 'Figma']
   },
   {
     title: 'Development Tools',
@@ -17,11 +17,11 @@ const skillCategories = [
   },
   {
     title: 'Web Technologies',
-    skills: ['Web Development', 'Web Design', 'Web Application Development', 'Mobile Application Development', 'React Native', 'WordPress', 'E-commerce']
+    skills: ['Web Development', 'Web Design', 'Web Application Development','E-commerce']
   },
   {
     title: 'Programming & Design',
-    skills: ['Object-Oriented Programming (OOP)', 'Algorithms', 'Data Structures', 'Web Services API', 'Redux.js', 'MERN Stack', 'Canva']
+    skills: ['Object-Oriented Programming (OOP)', 'Algorithms', 'Data Structures', 'Web Services API', 'Redux.js']
   }
 ]
 
