@@ -4,7 +4,7 @@ import { Briefcase, MapPin } from 'lucide-react'
 const experiences = [
   {
     title: 'Software Engineer',
-    company: 'Syed Muhammad Ali Raza',
+    company: 'Senarios Pvt Ltd',
     duration: 'Mar 2024 - Present',
     location: 'Pakistan · On-site',
     description: [
@@ -15,7 +15,7 @@ const experiences = [
       'Currently leading development on an Angular 16 project integrated with serverless API architecture',
       'Working on AiDevLab, an accessibility-focused platform providing report generation and video trimming solutions'
     ],
-    technologies: ['React.js', 'Angular', 'TypeScript', 'Tailwind CSS', 'Material UI', 'Ant Design']
+    technologies: ['React.js', 'Angular', 'TypeScript', 'Tailwind CSS', 'Material UI', 'Ant Design' , 'Next.js']
   },
   {
     title: 'Associate Software Engineer',
